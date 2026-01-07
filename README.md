@@ -4,6 +4,9 @@ I'm a passionate software development student from Brazil.
 
 - 👨‍💻 Software Engineering student passionate about Backend Development.
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neyzim&theme=dark)
 
 ## 💼 Portfolio:
 - [Technician Companion](https://github.com/Neyzim/TechnicianCompanion)
@@ -22,4 +25,7 @@ I'm a passionate software development student from Brazil.
 ## 📞 Contact-me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flasney-medeiros-3a2785362/)
+
+![Snake animation](https://github.com/Neyzim/Neyzim/blob/output/github-contribution-grid-snake.svg)
+
 
