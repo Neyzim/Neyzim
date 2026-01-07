@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, 👋 I'm Flasney!
 
-<!--
-**Neyzim/Neyzim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software development student from Brazil.
 
-Here are some ideas to get you started:
+- 👨‍💻 Software Engineering student passionate about Backend Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💼 Portfolio:
+to-do
+
+## ⚙️ Skills:
+
+<h3>Programming Languages:</h3>
+
+[![Programming Languages](https://skillicons.dev/icons?i=java,python&theme=light)](https://skillicons.dev)
+
+<h3>Tools & Frameworks</h3>
+
+[![Tools & Frameworks](https://skillicons.dev/icons?i=spring,mysql,sqlite,django,git,github&theme=light)](https://skillicons.dev)
+
+
+
