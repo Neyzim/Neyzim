@@ -11,6 +11,7 @@ I'm a passionate software development student from Brazil.
 ## 💼 Portfolio:
 - [Technician Companion](https://github.com/Neyzim/TechnicianCompanion)
 - [Agenda com Django](https://github.com/Neyzim/Agenda_com-Django)
+- [Helios observability](https://github.com/Neyzim/helios-observability)
 
 ## ⚙️ Skills:
 
