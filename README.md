@@ -9,9 +9,10 @@ I'm a passionate software development student from Brazil.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neyzim&theme=dark)
 
 ## 💼 Portfolio:
+- [Helios observability](https://github.com/Neyzim/helios-observability)
 - [Technician Companion](https://github.com/Neyzim/TechnicianCompanion)
 - [Agenda com Django](https://github.com/Neyzim/Agenda_com-Django)
-- [Helios observability](https://github.com/Neyzim/helios-observability)
+
 
 ## ⚙️ Skills:
 
